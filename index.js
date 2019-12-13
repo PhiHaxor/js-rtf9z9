@@ -5,5 +5,5 @@ import './style.css';
 const appDiv = document.getElementById('app');
 appDiv.innerHTML = '<h1>JS Starter</h1>';
 
-appDiv.innerHTML = '<p> this is a test for phi HAXOR rtf9z9</p>';
+appDiv.innerHTML = '<p> this is a test for phi - rtf9z9</p>';
 
